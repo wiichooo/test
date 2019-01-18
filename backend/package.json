@@ -1,0 +1,17 @@
+{
+  "name": "server.js",
+  "version": "1.0.0",
+  "description": "contact me",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "wiichooo",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.3",
+    "morgan": "^1.9.1"
+  }
+}
